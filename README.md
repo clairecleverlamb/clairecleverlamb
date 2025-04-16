@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-1a1aff?logo=Instagram&logoColor=ff69b4)](https://instagram.com/cappimmsxn) [![email](https://img.shields.io/badge/Email-8f9779?logo=gmail&logoColor=ffffff)](mailto:clairechenszeying@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@clairecleverlamb)
+[![Instagram](https://img.shields.io/badge/Instagram-f58529?logo=Instagram&logoColor=ffffff)](https://instagram.com/cappimmsxn) [![email](https://img.shields.io/badge/Email-8f9779?logo=gmail&logoColor=ffffff)](mailto:clairechenszeying@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@clairecleverlamb)
 
 
 # 💻 Tech Stack:
